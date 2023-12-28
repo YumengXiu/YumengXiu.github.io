@@ -16,7 +16,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
-I am a graduated Master student at Department of Mechanical Engineering, CMU. 
+I am a graduated student at Department of Mechanical Engineering, CMU. 
 
 I am broadly interested in robotics, learning to control and optimization, particularly, my recent researches focus on following directions:
 
@@ -24,7 +24,7 @@ I am broadly interested in robotics, learning to control and optimization, parti
 
 - <strong>Learning to control</strong>: While control theory provides useful concepts and tools for machine learning, machine learning can be used the other way around to solve large control problems.I believe that combining these two could help develop reliable algorithms for stabilizing large-scale systems in practice, including power systems, robot teams, etc. Toward this goal, I've been working on the project of [Learning-based Control on Large Power System](https://yumengxiu.github.io/projects/3_project/)
 
-My up-to-date Curriculum: [CV](https://yumengxiu.github.io/assets/pdf/YumengXiu_CV.pdf)
+My up-to-date Curriculum: [CV](https://yumengxiu.github.io/files/YumengXiu_CV.pdf)
 
 Besides research, I enjoy music arranging, literature novels and philosophy. I'm a fan of Albert Camus and Victor Hugo.
 
