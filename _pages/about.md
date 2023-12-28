@@ -23,12 +23,17 @@ My up-to-date Curriculum: [CV](../files/YumengXiu_CV.pdf)
 Besides research, I enjoy music arranging, photography and philosophy. I'm a fan of Albert Camus and Victor Hugo.
 
 ---
-layout: post
-date: 2023-11-12 21:59:00-0400
-inline: true
+## News
 ---
-Our work [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/pdf/2303.00132.pdf) has been accepted by RA-L! 
+- **Nov, 2023**: Our work [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/pdf/2303.00132.pdf) has been accepted by RA-L! 
 
+- **Jun, 2023**: Our recent work [A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles](https://arxiv.org/pdf/2301.08422.pdf) was submitted to RA-L and is currently under review!
+
+- **March, 2023**: Our work [Compositional Neural Certificates for Networked Dynamical Systems](https://openreview.net/pdf?id=t2uzLVx9Ut) has been accepted by L4DC 2023! 
+
+- **Jan, 2023**: Our work [Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization](https://arxiv.org/abs/2209.07003) has been accepted by ICRA 2023! 
+
+- **Jan, 2023**: Our work [A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera](https://arxiv.org/abs/2209.08258) has been accepted by ICRA 2023! 
 <!-- Getting started
 
 For more info
