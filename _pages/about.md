@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> --- <font size=3>The struggle itself towards the heights is enough to fill a man's heart.</font>
+> --- <font size=3>Think geometrically, prove algebraically. ——John Tate </font>
 ---
 
 I am a graduated student at Department of Mechanical Engineering, CMU. I am broadly interested in robotics, learning to control and optimization, my research goal is to develop real autonomous intelligent robots. Particularly, my recent researches focus on following directions:
