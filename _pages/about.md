@@ -11,7 +11,7 @@ redirect_from:
 > <font size=3>Think geometrically, prove algebraically.  ——John Tate </font>
 ---
 
-I am a graduated student at Department of Mechanical Engineering, CMU. I am broadly interested in robotics, learning to control and optimization, my research goal is to develop real autonomous intelligent robots. Particularly, my recent researches focus on following directions:
+I am a Ph.D. student at Department of Mechanical Engineering, CMU. I am broadly interested in robotics, learning to control and optimization, my research goal is to develop real autonomous intelligent robots. Particularly, my recent researches focus on following directions:
 
 - <strong>Safe Navigation and robotics</strong>: Safe exploration and navigation is one of the most fundamental components of robot autonomy. Therefore, an accurate perception system and safe trajectory planning/prediction algorithms become necessary for safe navigation in complex environments. My goal is to develop rigorous algorithms to enable safe and autonomous actions in the field of robotics and apply them on real-world applications. Toward this goal, I've worked on research projects of [Vision Aided Path Planning](https://yumengxiu.github.io/portfolio/portfolio-1/), [Perception and Obstacle Avoidance](https://yumengxiu.github.io/portfolio/portfolio-2/), and [Multi-robot Social Navigation](https://yumengxiu.github.io/portfolio/portfolio-4/) to enrich my experince.
 
